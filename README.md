@@ -1,5 +1,5 @@
 # TelegramSpammer
-A free spammer for Telegram.
+A spammer for Telegram.
 ### Installation
 Python 3, selenium and your browser's driver are requierd.
 
